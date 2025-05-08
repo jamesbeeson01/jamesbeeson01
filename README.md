@@ -1,16 +1,19 @@
-## Hi there 👋
+# James Beeson 🐝
 
-<!--
-**jamesbeeson01/jamesbeeson01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋
 
-Here are some ideas to get you started:
+I am a data science student passionate about improving education, and using my research and data science skills to get there. I am also a lucky husband and proud father of a precious daughter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍎 I’m currently working on AI in Education research
+- 🏫 I am a senior at Brigham Young University - Idaho
+- 💻 I work in the BYUI faculty technology center, a place of technology innovation to help teachers and learners on campus
+
+Languages:
+- R (tidyverse)
+- Python (pandas, OOP, ArcGIS)
+- AutoLISP (AutoCAD Map 3D automation)
+
+## Blog
+
+5/8/2025
+I made a README!
