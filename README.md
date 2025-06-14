@@ -33,6 +33,8 @@ It is a chat bot used primarily for research, with its use disclaimers, survey, 
 
 The biggest milestone and achievement for me is creating a website when I didn't know web dev. Now I know slightly more.
 
+#### What I Learned
+
 I went into creating this website with the following knowledge:
 - The general structure of html and css
 - html is structure, while css is design format
@@ -65,7 +67,13 @@ I also found a learning curve in the process of publishing the website, which fe
 - I also have to get an SSL certificate for security (and the golden https status)
 - How to store environment variables locally and in the VM
 
-And I am sure there are more. I did not even touch on using the Gemini API, which I have yet to dive deeply into. I was amazed at how much agent mode with Claude was able to do for me. I started by simply saying something like "give me a basic express node web app that mimics an AI chat like ChatGPT." Out of the gate it created a nice shell that I could iterate with. I found that learning beforehand what node.js was and the principles of how websites communicate, it was much easier to critize when the AI was doing something stupid and I could correct it. Having other programming background also helped me have a language to communicate with the AI and let it know what I want changed. AI was invaluable when it came to publishing the website because it had enough complexities and custom scenarios that are hard to navigate with typical tutorials. I was able to get advice on which method to use for my hosting needs, and it helped me identify any holes in my knowledge that were stopping me from getting it published.
+And I am sure there are more. I did not even touch on using the Gemini API, which I have yet to dive deeply into. 
+
+#### On Vibe-Coding
+
+I was amazed at how much agent mode with Claude was able to do for me. I started by simply saying something like "give me a basic express node web app that mimics an AI chat like ChatGPT." Out of the gate it created a nice shell that I could iterate with. I found that learning beforehand what node.js was and the principles of how websites communicate, it was much easier to critize when the AI was doing something stupid and I could correct it. Having other programming background also helped me have a language to communicate with the AI and let it know what I want changed. AI was invaluable when it came to publishing the website because it had enough complexities and custom scenarios that are hard to navigate with typical tutorials. I was able to get advice on which method to use for my hosting needs, and it helped me identify any holes in my knowledge that were stopping me from getting it published.
+
+#### Wrap-Up
 
 Here is that link again: 
 https://www.tutor-chat.space/
