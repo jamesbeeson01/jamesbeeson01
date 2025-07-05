@@ -15,6 +15,25 @@ Languages:
 
 ## Blog
 
+### Experimental Design is Complicated
+**7/4/2025**
+
+Science is easy. Pick a dependent variable (the thing to measure), the independent variable (treatment), randomize into a treatment and control group, and see what happens! Oh, but don't forget the bureaucracy.
+
+#### Everything Surrounding Research
+
+**People:** People research is particularly messy because it involves people. One way that people are different from objects is the fact that they have lives, experience joy and pain, and as such, there is an innate sense of morality in protecting other humans. That is why we have laws surrounding the protection of humans in social research. To get a study approved, it must go through the Institutional Review Board (IRB), who determines if you are giving the research participants enough information to make an informed decision, that any risks are no more than minimal, and that rewards outweigh negative effects. In preparing for an institutional review, I had to have my informed consent written out, justify the amount of information I would need to collect about people, and do all I can to protect and anonymize that information. I also had to provide my survey I used to measure "learning", which leads to something else surrounding research.
+
+**Conceptualization:** It is difficult to measure concepts as abstract as "learning." It is one thing to measure whether or not they know some subject, but how do you measure something's potential to aid in learning? What does it mean to learn? If the goal is so nebulous as learning, it is not so easy to measure. The natural starting place for an academic is a literature review. This thorough consideration needs to be made before submitting an IRB. The trouble then becomes, how do we see observe something invisible, then how do I observe that thing. My resource limitations constrain me to grades and a survey.
+
+**Instruments:** How do I get people to use my AI chat and take the survey? How do I make sure they use it correctly? How do I know if they used in incorrectly? How do I store the data? Answering these questions took the creation of a website with its own database, an integration with the survey, and communication with a class instructor to use an existing assignment for measurement. I had to design the website to assigned the user a treatment group in such a way that it led the user to do what they were supposed to without revealing what treatment group they were in. Just to run the experiment, user experience was a significant part of the process.
+
+**More People:** People have to volunteer for the experiment, and people have to administer the experiment. In my case, the only significant funding needed was my time, which is fortunate. I did buy a domain for the website, but for something this small, it could be a fairly simple name. In order to get participants, I worked with an instructor to give students extra credit for participating. Still, there had to be announcements, assignment creation, and additional surveys to surround this accomodation (which can only move forward with help from the professor and TA's). In my case, this took a lot of waiting and coordination.
+
+#### Where are we now?
+
+Despite the hurdles, the experiment is now running. Only time will tell if it will yield any useful information. However, it feels nice to have a break in the waiting game.
+
 ### Web Dev is New: Building an AI Chat Bot Using AI
 **6/14/2025**
 
