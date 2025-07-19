@@ -13,6 +13,10 @@ Languages:
 - Python (pandas, OOP, ArcGIS)
 - AutoLISP (AutoCAD Map 3D automation)
 
+Favorite Repos:
+- RateMyProfessor - [Page](https://jamesbeeson01.github.io/RateMyProfessors/) | [Repo](https://github.com/jamesbeeson01/RateMyProfessor)
+- ChatInterface - [Page](https://jamesbeeson01.github.io/Chat-Interface/) | [Repo](https://github.com/jamesbeeson01/Chat-Interface)
+
 ## Blog
 
 ### What I know Now About AI Impacts in Education
