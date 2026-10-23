@@ -11,7 +11,7 @@ I love education and problem solving - and I love the coding and technology that
 Favorite Repos:
 - Applr - [Page](https://saundersg.github.io/Applr) | [Repo](https://github.com/saundersg/Applr)
 - RateMyProfessor - [Page](https://jamesbeeson01.github.io/RateMyProfessors/) | [Repo](https://github.com/jamesbeeson01/RateMyProfessor)
-- Intro to Agent Engineering - [Page]([https://jamesbeeson01.github.io/Chat-Interface/](https://byuidatascience.github.io/agentic_ai_course/)) | [Repo]([https://github.com/jamesbeeson01/Chat-Interface](https://github.com/byuidatascience/agentic_ai_course))
+- Intro to Agent Engineering - [Page](https://byuidatascience.github.io/agentic_ai_course/) | [Repo](https://github.com/byuidatascience/agentic_ai_course)
 
 Languages:
 - R | tidyverse, tidyverts (time series stuff), Applr (that's mine!)
