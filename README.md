@@ -2,20 +2,24 @@
 
 Hello there! 👋
 
-I am a data science student passionate about improving education, and using my research and data science skills to get there. I am also a lucky husband and proud father of a precious daughter.
+I love education and problem solving - and I love the coding and technology that gets me there. Beyond that, it's discovery that drives me. I am fascinated by changes in AI, and I'm trying hard to be at the forefront of it all. Above all, though, I am also a lucky husband and proud father of a precious daughter.
 
-- 🍎 I’m currently working on AI in Education research
-- 🏫 I am a senior at Brigham Young University - Idaho
-- 💻 I work in the BYUI faculty technology center, a place of technology innovation to help teachers and learners on campus
-
-Languages:
-- R (tidyverse)
-- Python (pandas, OOP, ArcGIS)
-- AutoLISP (AutoCAD Map 3D automation)
+- 🍎 I’m currently teaching AI Agent Engineering at Brigham Young University - Idaho
+- 🏫 I'm enjoying curriculum development projects on campus
+- 🍏 I just got an R package published to CRAN (if you know, you know)
 
 Favorite Repos:
+- Applr - [Page](https://saundersg.github.io/Applr) | [Repo](https://github.com/saundersg/Applr)
 - RateMyProfessor - [Page](https://jamesbeeson01.github.io/RateMyProfessors/) | [Repo](https://github.com/jamesbeeson01/RateMyProfessor)
-- ChatInterface - [Page](https://jamesbeeson01.github.io/Chat-Interface/) | [Repo](https://github.com/jamesbeeson01/Chat-Interface)
+- Intro to Agent Engineering - [Page]([https://jamesbeeson01.github.io/Chat-Interface/](https://byuidatascience.github.io/agentic_ai_course/)) | [Repo]([https://github.com/jamesbeeson01/Chat-Interface](https://github.com/byuidatascience/agentic_ai_course))
+
+Languages:
+- R | tidyverse, tidyverts (time series stuff), Applr (that's mine!)
+- AI frameworks | LangChain, Mastra
+- AutoLISP (AutoCAD Map 3D automation)
+- Claude Code (let's be honest)
+
+
 
 ## Blog
 
