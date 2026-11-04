@@ -17,4 +17,4 @@ Languages:
 - R | tidyverse, tidyverts (time series stuff), Applr (that's mine!)
 - AI frameworks | LangChain, Mastra
 - AutoLISP (AutoCAD Map 3D automation)
-- Claude Code (let's be honest)
+- Claude Code...
